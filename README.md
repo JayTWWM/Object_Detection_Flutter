@@ -1,16 +1,15 @@
 # Object_Detection_Master
 
-A new Flutter project.
+A new Flutter project that uses tflite package to detect objects. It uses SSDMobileNet and YOLOv2 models to perform detections.
+Inputs can be given using file system, Camera and Live camera feed.
 
-## Getting Started
+An example of its working is given below. 
 
-This project is a starting point for a Flutter application.
+<img src='./assets/check.jpeg'/>
 
-A few resources to get you started if this is your first Flutter project:
+Download the zip.
+Run the following command.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+"flutter run"
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+And get set detect!!
